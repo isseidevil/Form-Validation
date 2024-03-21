@@ -9,3 +9,5 @@ Currently, two official plugins are available:
 Created this form validation by using "Yup" and "Formik" module
 # Output
 ![image](https://github.com/isseidevil/weather-app/assets/149817970/736ca926-2d56-4f94-9db9-4d06ab65c846) 
+
+P.S. - if you fill it properly then only your data will get stored in database  
