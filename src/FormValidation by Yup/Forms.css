@@ -1,0 +1,30 @@
+.Forms{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+button{
+    padding: 5px;
+    
+}
+
+.form_cont{
+    padding: 20px;
+    background: pink;
+    border-radius: 10px;
+    height: 260px;
+    width: 300px;
+}
+
+input{
+    border: none;
+    outline: none;
+    background: none;
+    border-bottom: 1px solid black;
+}
+p{
+    color: red;
+    font-size: 10px;
+    text-align: center;
+}
